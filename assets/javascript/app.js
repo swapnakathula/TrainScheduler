@@ -1,5 +1,4 @@
 
-
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyA8P9LOywZ5ezo8vkraAoNncz-9I1CMrUg",
@@ -39,7 +38,7 @@ var newTrain = {
 
 
  // Alert
-	alert("Train successfully added");
+	//alert("Train successfully added");
 
 // Clears all of the text-boxes
 $("#train-name-input").val("");
